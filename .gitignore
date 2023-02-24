@@ -1,3 +1,8 @@
+# nix
+.envrc
+result
+.direnv
+
 # Compiled source #
 ###################
 *.pyc

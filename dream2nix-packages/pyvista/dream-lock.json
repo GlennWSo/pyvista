@@ -1,0 +1,196 @@
+{
+  "_generic": {
+    "defaultPackage": "pyvista",
+    "invalidationHash": "59a476e95380169614cfe0244fd9cda18ecc2504c2af01e749dc081f084d9daa",
+    "location": "",
+    "packages": {
+      "pyvista": "0.39.dev0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "python"
+  },
+  "_subsystem": {
+    "application": false,
+    "pythonAttr": "python310",
+    "sourceFormats": {
+      "Pillow": "wheel",
+      "appdirs": "wheel",
+      "certifi": "wheel",
+      "charset_normalizer": "wheel",
+      "contourpy": "wheel",
+      "cycler": "wheel",
+      "fonttools": "wheel",
+      "idna": "wheel",
+      "imageio": "wheel",
+      "kiwisolver": "wheel",
+      "matplotlib": "wheel",
+      "numpy": "wheel",
+      "packaging": "wheel",
+      "pooch": "wheel",
+      "pyparsing": "wheel",
+      "python_dateutil": "wheel",
+      "requests": "wheel",
+      "scooby": "wheel",
+      "setuptools": "wheel",
+      "six": "wheel",
+      "urllib3": "wheel",
+      "vtk": "wheel"
+    }
+  },
+  "sources": {
+    "Pillow": {
+      "9.4.0": {
+        "hash": "sha256-7T5LTh5t51/cFtMlkJjefGVxsabMhjsaSefT1T4DYHA=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/P/Pillow/Pillow-9.4.0-cp310-cp310-manylinux_2_28_x86_64.whl"
+      }
+    },
+    "appdirs": {
+      "1.4.4": {
+        "hash": "sha256-qEHazWuZMYp0GxZq2wfhnucaJ0RQ5oI3tGUMoQVasSg=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/a/appdirs/appdirs-1.4.4-py2.py3-none-any.whl"
+      }
+    },
+    "certifi": {
+      "2022.12.7": {
+        "hash": "sha256-StMjL16SbWcY7DHPwfyt/eAgkg4nhoQURVHJF2nHvBg=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/c/certifi/certifi-2022.12.7-py3-none-any.whl"
+      }
+    },
+    "charset_normalizer": {
+      "3.0.1": {
+        "hash": "sha256-cJkLnFE0DkBEz8OUqB9hTz+Q1BOXEE0ibyHmbeZocw0=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/c/charset_normalizer/charset_normalizer-3.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "contourpy": {
+      "1.0.7": {
+        "hash": "sha256-h/TYlBqVZM2j9/pqbNmzLsV1gweAZ3kyq97HvLYXF7A=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/c/contourpy/contourpy-1.0.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "cycler": {
+      "0.11.0": {
+        "hash": "sha256-OifpX3Y6QopznSrdl5+nSUyRKjLBfEw4xNXwgsrRZaM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/c/cycler/cycler-0.11.0-py3-none-any.whl"
+      }
+    },
+    "fonttools": {
+      "4.38.0": {
+        "hash": "sha256-ggRm9DyL6MMAmu+Lh+eFAUEzUI8N5k7EaeTvtkOuVPs=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/f/fonttools/fonttools-4.38.0-py3-none-any.whl"
+      }
+    },
+    "idna": {
+      "3.4": {
+        "hash": "sha256-kLd+eeqj66begZoMRCwLTO78NBp6Krd9dWK/SfQlxcI=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/i/idna/idna-3.4-py3-none-any.whl"
+      }
+    },
+    "imageio": {
+      "2.25.1": {
+        "hash": "sha256-W85/iO737k6arHmNOyGP6i6Yy7qlmj43tzCnqleE7qw=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/i/imageio/imageio-2.25.1-py3-none-any.whl"
+      }
+    },
+    "kiwisolver": {
+      "1.4.4": {
+        "hash": "sha256-dXfBmHuqOtxLPGLDO9ERjD71yN3vNvDyyVCuCxmeEA0=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/k/kiwisolver/kiwisolver-1.4.4-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl"
+      }
+    },
+    "matplotlib": {
+      "3.7.0": {
+        "hash": "sha256-xUZXNeqq/Rz67D/tYK7ndq6z/TmSqi5J9GNTOckx1EM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/m/matplotlib/matplotlib-3.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "numpy": {
+      "1.24.2": {
+        "hash": "sha256-pRclqBWmGIxmL7ZvsyB3cJqco4BT8CdGQCk6FP3SKXg=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/n/numpy/numpy-1.24.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "packaging": {
+      "23.0": {
+        "hash": "sha256-cUrBRJbD5oyZwpsAhF96K4Xzu28QeP2fcv0g8FcAArI=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/p/packaging/packaging-23.0-py3-none-any.whl"
+      }
+    },
+    "pooch": {
+      "1.6.0": {
+        "hash": "sha256-O/DiACcJaDa4284BUtu3haJpq+tiFhjrS90nX/HiPJw=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/p/pooch/pooch-1.6.0-py3-none-any.whl"
+      }
+    },
+    "pyparsing": {
+      "3.0.9": {
+        "hash": "sha256-UCa66aEO6u+2HasvCQUrn0MH1EruTtpkswlyPY0ga7w=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/p/pyparsing/pyparsing-3.0.9-py3-none-any.whl"
+      }
+    },
+    "python_dateutil": {
+      "2.8.2": {
+        "hash": "sha256-lh0D3DRT67xZ296p5OEcVlFSCodtD02xYehnSq6TXak=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/p/python_dateutil/python_dateutil-2.8.2-py2.py3-none-any.whl"
+      }
+    },
+    "requests": {
+      "2.28.2": {
+        "hash": "sha256-ZCmfSQkiPadHYiwDC3gcDXgR41nDcSS0vTaPuMZRi6o=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/r/requests/requests-2.28.2-py3-none-any.whl"
+      }
+    },
+    "scooby": {
+      "0.7.1": {
+        "hash": "sha256-GlZ/tZ/+G1afUkhcZgkU93ILWD4sRzPe1sylF5NDdKM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/s/scooby/scooby-0.7.1-py3-none-any.whl"
+      }
+    },
+    "setuptools": {
+      "67.4.0": {
+        "hash": "sha256-8Qbe4bUG3uUQLMPz6eaBN7utbUe2Fr55kXFLDGIgQlE=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/s/setuptools/setuptools-67.4.0-py3-none-any.whl"
+      }
+    },
+    "six": {
+      "1.16.0": {
+        "hash": "sha256-irsvHYaJCi37mJ+ad8/P0+R8KjVLAREXcTJviqJuAlQ=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/s/six/six-1.16.0-py2.py3-none-any.whl"
+      }
+    },
+    "urllib3": {
+      "1.26.14": {
+        "hash": "sha256-de3NwvfYWxNxJKbDyfw5M83qoS7LmmqVnyJ5eg/sp+E=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/u/urllib3/urllib3-1.26.14-py2.py3-none-any.whl"
+      }
+    },
+    "vtk": {
+      "9.2.6": {
+        "hash": "sha256-NHPzs9yRnT4u8MyZJ2VHMZQf17edPcqjQ82v8+TkCDg=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/v/vtk/vtk-9.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    }
+  }
+}

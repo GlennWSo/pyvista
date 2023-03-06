@@ -81,7 +81,7 @@ setup(
         "Bug Tracker": "https://github.com/pyvista/pyvista/issues",
         "Source Code": "https://github.com/pyvista/pyvista",
     },
-    python_requires='>=3.7.*',
+    python_requires='>=3.7',
     install_requires=install_requires,
     extras_require={
         'all': [

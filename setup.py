@@ -18,7 +18,7 @@ install_requires = [
     'pillow',
     'pooch',
     'scooby>=0.5.1',
-    'vtk',
+    'vtk==9.2.2',
     "typing-extensions; python_version < '3.8'",
 ]
 
